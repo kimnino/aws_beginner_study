@@ -1,0 +1,2 @@
+# aws_beginner_study
+'비전공자도 이해할 수 있는 AWS 입문/실전' 강의 공부 내용
